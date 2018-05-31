@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 # makeCacheMatrix: Creates a matrix that can cache its inverse.
-# Computes the inverse of the special "matrix" returned by makeCacheMatrix.
+# cacheSolve: Computes the inverse of the special "matrix" returned by makeCacheMatrix.
 
 # This function creates a special "matrix" object that can cache its inverse.
 # This is really a list containing the following functions:
